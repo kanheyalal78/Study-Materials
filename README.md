@@ -1,2 +1,2 @@
 # Study-Materials
-Here's my study materials for competitive programming.
+Here's my study materials for competitive programming lol.
